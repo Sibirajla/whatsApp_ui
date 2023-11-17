@@ -11,7 +11,7 @@ Clone the Project: Clone this WhatsApp Clone repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your-username/whatsapp_flutter.git
+git clone https://github.com/Sibirajla/whatsApp/
 Set Up Firebase: Create a new project on the Firebase Console and set up Firestore for real-time database functionality. Update the Firebase configuration in your Flutter project by replacing the placeholder values in the lib/services/firebase_service.dart file with your Firebase project configuration.
 
 Install Dependencies: Navigate to the project directory and run the following command to install the necessary dependencies:
