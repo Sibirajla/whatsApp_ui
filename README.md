@@ -8,7 +8,7 @@ If this is your first Flutter fling, buckle up and follow these steps to set up 
   
 - Clone the Project: Summon the WhatsApp Clone repository to your realm:
   ```bash
-  git clone https://github.com/Sibirajla/whatsApp/
+  git clone https://github.com/Sibirajla/whatsApp_ui/
 
 Set Up Firebase: Cast a spell by creating a new project on the Firebase Console. Let Firestore be your mystical realm for real-time database wonders. Update the Firebase configuration in your Flutter project within the lib/services/firebase_service.dart file. Replace the placeholder values with your Firebase project incantation.
 
